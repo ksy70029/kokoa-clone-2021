@@ -49,3 +49,7 @@
   animation: hideSplashScreen 0.3s ease-in-out forwards;
   animation-delay: 2s;
 }
+.friends-screen .fa-heart {
+  color: firebrick;
+  margin-left: 5px;
+}

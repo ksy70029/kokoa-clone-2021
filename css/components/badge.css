@@ -9,3 +9,9 @@
   color: white;
   font-weight: 600;
 }
+.bedge-small {
+  background-color: tomato;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
