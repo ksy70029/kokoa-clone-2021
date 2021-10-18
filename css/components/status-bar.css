@@ -8,17 +8,17 @@
   box-sizing: border-box;
   top: 0;
 }
-.status-bar__coplumn {
+.status-bar__column {
   width: 33.3%;
 }
-.status-bar__coplumn:first-child {
+.status-bar__column:first-child {
   margin-right: 5px;
 }
-.status-bar__coplumn:nth-child(2) {
+.status-bar__column:nth-child(2) {
   display: flex;
   justify-content: center;
 }
-.status-bar__coplumn:last-child {
+.status-bar__column:last-child {
   display: flex;
   justify-content: flex-end;
   align-items: center;
